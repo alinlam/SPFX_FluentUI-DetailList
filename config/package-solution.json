@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-fluent-ui-detail-list-git-client-side-solution",
+    "id": "9c4b1ab9-6d0d-48d3-ba70-65b155f11d02",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-fluent-ui-detail-list-git.sppkg"
+  }
+}
