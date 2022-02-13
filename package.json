@@ -42,7 +42,7 @@
         "@types/mocha": "2.2.38",
         "@uifabric/example-data": "^7.0.1",
         "@uifabric/file-type-icons": "6.9.0",
-        "ajv": "~5.2.2",
+        "ajv": "~6.12.3",
         "gulp": "^3.9.1",
         "yo": "^3.1.0"
     }
